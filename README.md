@@ -3,7 +3,7 @@
 |----------------------------------------------------------------------|----------------------------------------------------------------------|-------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|----------------------------------------------------------------------|
 | Not Maintained                                                       | Not Maintained                                                       | Not Maintained                                                                | Not Maintained                                                                    | Not Maintained                                                              | Not Maintained                                                       | Maintained                                                           |
 
-[![Github All Releases](https://img.shields.io/github/downloads/NotAHero04/inventory-mod/total.svg?style=flat)]()
+[![Github All Releases](https://img.shields.io/github/downloads/voidvoxel/reinv/total.svg?style=flat)]()
 
 # Inventory Mod
 
